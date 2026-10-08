@@ -170,9 +170,10 @@ E-Commerce-Sales-Customer-Analytics/
 ├── 5_power bi/
 ├── 6_Screenshots/
 └── 7_outputs/
+```
 
 ## Author
 
-Deepak S
+**Deepak S**
 
 Data Analyst Portfolio Project
