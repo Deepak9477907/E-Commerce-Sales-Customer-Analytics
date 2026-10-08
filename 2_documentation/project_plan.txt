@@ -1,0 +1,37 @@
+PROJECT TITLE:
+E-Commerce Sales & Customer Analytics
+
+BUSINESS PROBLEM:
+Analyze e-commerce sales, customer behavior, product performance,
+seller performance, payments, reviews, and delivery operations to
+identify trends, strengths, and areas for business improvement.
+
+TOOLS:
+SQL
+Python / Pandas
+Excel
+Power BI
+
+MAIN KPIs:
+1. Total Revenue
+2. Total Orders
+3. Total Customers
+4. Average Order Value
+5. Repeat Customer Rate
+6. Average Review Score
+7. Average Delivery Time
+8. Late Delivery Rate
+
+MAIN ANALYSIS QUESTIONS:
+1. How have orders and revenue changed over time?
+2. Which product categories generate the most revenue?
+3. Which locations generate the most sales?
+4. How many customers make repeat purchases?
+5. What is the average order value?
+6. Which payment methods are most commonly used?
+7. Which sellers generate the most revenue?
+8. What is the average delivery time?
+9. Do late deliveries receive lower review scores?
+10. Which categories have the best and worst customer reviews?
+11. Which months have the highest demand?
+12. What areas of the business need improvement?

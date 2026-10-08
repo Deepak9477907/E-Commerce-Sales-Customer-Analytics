@@ -1,0 +1,36 @@
+TABLE: customers
+TABLE: customers
+
+customer_id - ID used to identify the customer record for a specific order and link it with the orders table.
+
+customer_unique_id - Permanent unique ID used to identify the same real customer across multiple orders.
+
+customer_zip_code_prefix - First 5 digits of the customer's postal code.
+
+customer_city - City where the customer is located.
+
+customer_state - State where the customer is located.
+
+TABLE: orders
+order_id - the id given to find the order to connect the customer to order.
+
+customer_id -ID used to identify the customer record for a specific order and link it with the orders table.
+
+order_status - it shows the order is in which status like for ex: delivered.accepted.
+
+order_purchase_timestamp - the time and date which the customer purchased or ordered the order.
+order_approved_at - it is the time and date where the merchant or owner approves the order. 
+order_delivered_carrier_date -like it may be the time and date order left from the warehouse.
+order_delivered_customer_date - it is the time and date the customer gets the delivery of the order.
+order_estimated_delivery_date -it is the time and date when will the customer gets the order delivered.
+
+TABLE: order_items
+order_id -the id given to find the order to connect the customer to order.
+
+order_item_id - the item id given to find the order.
+
+product_id - the id to identify the product.
+seller_id - the id of the merchant or the seller that delivers the order or product to the customers.
+shipping_limit_date - the till date that is given to the customer by seller like until the date the order will be shipped.
+price - the MRP of the product or order.
+freight_value - i dont know about it 

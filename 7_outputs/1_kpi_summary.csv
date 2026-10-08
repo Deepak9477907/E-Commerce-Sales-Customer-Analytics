@@ -1,0 +1,13 @@
+metric,value
+Average delivery days,12.56
+Average payment per order,160.99
+Delivered customers,93358.0
+Repeat customers,2801.0
+Repeat customer percentage,3.0
+Delivery orders analyzed,96470.0
+On-time orders,89936.0
+Late orders,6534.0
+Reviewed on-time orders,89443.0
+Reviewed late orders,6381.0
+On-time average review,4.29
+Late average review,2.27
